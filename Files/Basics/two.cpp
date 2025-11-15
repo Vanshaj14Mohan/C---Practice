@@ -8,6 +8,6 @@ int main(){
     cout<< "Enter second number:";
     cin>> b;
     sum = a+b;
-    cout <<"Sum of" << a << "and" << b << "is" << sum<< endl;
+    cout << "Sum of " << a << " and " << b << " is " << sum << endl;
     return 0;
 }
