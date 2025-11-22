@@ -1,5 +1,4 @@
 // A Basic Tutotial of C++
-
 #include<iostream>
 using namespace std;
 int main(){

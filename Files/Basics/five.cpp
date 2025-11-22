@@ -1,5 +1,4 @@
 // A program to check whether a number is divisible by 2 and 5 (from 1 to 100)
-
 #include<iostream>
 using namespace std;
 int main(){
